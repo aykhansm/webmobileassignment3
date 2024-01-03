@@ -21,7 +21,7 @@ The Flash Card App is a web and mobile application that helps users create, mana
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/flash-card-app.git
+   git clone https://github.com/aykhansm/webmobileassignment3.git
 
    cd flash-card-app
 
