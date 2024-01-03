@@ -35,6 +35,10 @@ The Flash Card App is a web and mobile application that helps users create, mana
 
    Open your browser and navigate to http://localhost:3000.
 
+   Create json server:
+
+   json-server --watch db.json --port 3001
+
    Begin creating, viewing, and managing your flash cards.
 
    ### Built With
