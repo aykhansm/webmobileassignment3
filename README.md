@@ -23,7 +23,7 @@ The Flash Card App is a web and mobile application that helps users create, mana
 
    git clone https://github.com/aykhansm/webmobileassignment3.git
 
-   cd flash-card-app
+   cd wmassignment3
 
    npm install
 
