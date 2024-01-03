@@ -1,0 +1,44 @@
+.flash-card-list-ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  flex-wrap: wrap;
+  margin-top: 100px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.link-to-home {
+  text-decoration: none;
+  color: black;
+}
+.flash-card-list-buttons button {
+  background: none;
+  border: none;
+}
+.flash-card-list-inputs {
+  margin-top: 20px;
+}
+.flash-card-list-modal {
+  max-width: 400px;
+  margin: auto;
+  text-align: center;
+}
+.flash-card-list-inputs .form-control {
+  width: 100px;
+  display: inline;
+}
+.flash-card-list-modal button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.flash-card-list-modal button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
